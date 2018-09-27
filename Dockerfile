@@ -1,5 +1,5 @@
 FROM alpine:3.8
-LABEL maintainer="Serge NOEL <serge.noel@easylinux.fr>"
+LABEL maintainer="Serge NOEL <serge.noel@net6a.com>"
 
 # Install webserver & Php
 RUN apk update\
